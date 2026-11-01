@@ -1,0 +1,6 @@
+{
+  "name": "HandoverIQ",
+  "description": "Evidence-linked, permission-aware knowledge handover web app with deterministic quote verification and role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
